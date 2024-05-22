@@ -1,6 +1,6 @@
 # pReLU_ICML24
 
-This repository has the supplememt code for the paper: 
+This repository has the supplemental code for the paper: 
 
 H. Min and R. Vidal, “Can Implicit Bias Imply Adversarial Robustness?,” in the 41th International Conference on Machine Learning (ICML). [Paper](https://hanchmin.github.io/assets/pdf/MV2024ICML.pdf)
 
