@@ -14,4 +14,4 @@ For the experiments, run
   
  - (Section 5.2.2) python prelu_caltech256.py --config 'configs/caltech256/icml24_caltech256_10_classes.yaml' --exp_name 'FOLDER_NAME_FOR_RESULTS'
 
-  
+To run the experiment in Section 5.2.2, please download caltech256 dataset to 'data/caltech256'
