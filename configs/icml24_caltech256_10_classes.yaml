@@ -1,0 +1,19 @@
+train:
+    run: False
+    epsilon_list: [0, 0.1, 15]
+    n_class: 10
+    p_list: [1, 2, 3, 4]
+    pretrained_net_name: 'resnet152'
+    repeat: 5
+
+train_opt:
+    batch_size: 1000
+    max_epoch: 51
+    lr: 0.001
+
+train_net:
+    hidden_width: 2000
+    bias: True
+
+plot:
+    run: True
