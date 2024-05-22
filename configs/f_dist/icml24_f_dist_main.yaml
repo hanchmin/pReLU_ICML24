@@ -1,0 +1,27 @@
+train:
+    run: True
+    D: 1000
+    k: 10
+    k1: 6
+    save_model: 0
+    n_train: 20000
+    n_test: 20000
+    repeat: 5
+    sigma_list: [0.01, 0.3, 15]
+    epsilon_list: [0.0, 1.5, 15]
+
+train_opt:
+    batch_size: 100
+    max_epoch: 401
+    lr: 0.2
+
+train_net:
+    hidden_width: 2000
+    init_scale: 1.0e-7
+
+train_dist:
+    batch_size_dist: 1000
+    batch_num_dist: 10
+
+plot:
+    run: True
