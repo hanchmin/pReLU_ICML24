@@ -16,3 +16,5 @@ For the experiments (requires [AutoAttack](https://github.com/fra31/auto-attack)
 
 To run the experiment in Section 5.2.2, please download caltech256 dataset to 'data/caltech256'
 
+For pretrained networks, please see "prelu_pretrained.py"
+
